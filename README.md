@@ -93,7 +93,7 @@ If the project requires a development server or additional dependencies, follow 
 
 Explore the website here:
 
-**[Add Your Deployed Website URL Here]**
+**t https://shreyash18tiwari3001-create.github.io/job-point-official-website-project./**
 
 You can deploy a compatible static website using GitHub Pages, or use another hosting platform that supports your project's technology stack.
 
